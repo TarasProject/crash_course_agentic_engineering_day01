@@ -1,0 +1,7 @@
+{"ts":"2026-09-30T21:45:14.149Z","event":"PreToolUse","id":"toolu_01Q9R6ZAAyGX9Z5AQYyuDzP9","session":"313b50d4","mode":"default","tool":"Read","path":"README.md"}
+{"ts":"2026-09-30T21:45:14.275Z","event":"PostToolUse","id":"toolu_01Q9R6ZAAyGX9Z5AQYyuDzP9","session":"313b50d4","mode":"default","tool":"Read","path":"README.md","exit":0,"ms":24}
+{"ts":"2026-09-30T21:45:18.814Z","event":"PreToolUse","id":"toolu_01LWcayiGRNxjeJ3oLyvjztH","session":"313b50d4","mode":"default","tool":"Edit","path":"README.md"}
+{"ts":"2026-09-30T21:47:59.960Z","event":"PostToolUse","id":"toolu_01LWcayiGRNxjeJ3oLyvjztH","session":"313b50d4","mode":"default","tool":"Edit","path":"README.md","exit":0,"ms":86}
+{"ts":"2026-09-30T21:53:53.279Z","event":"PreToolUse","id":"toolu_014bym9m28RLW6xATVqJq6Ba","session":"313b50d4","mode":"default","tool":"Bash","cmd":"cd \"G:/crash_course_agentic_engineering_2026/demo/day01\" && sed -E 's/=.*/=<hidden>/' .env.local"}
+{"ts":"2026-09-30T21:59:28.957Z","event":"PreToolUse","id":"toolu_01R6SGKK7R4mCeaxFYkT6b9C","session":"313b50d4","mode":"default","tool":"PowerShell","cmd":"pnpm agent:log"}
+{"ts":"2026-09-30T21:59:46.088Z","event":"PostToolUse","id":"toolu_01R6SGKK7R4mCeaxFYkT6b9C","session":"313b50d4","mode":"default","tool":"PowerShell","cmd":"pnpm agent:log","exit":0,"ms":1800}
