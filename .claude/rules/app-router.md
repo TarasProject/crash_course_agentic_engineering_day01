@@ -1,7 +1,7 @@
 ---
 paths:
-  - "app/**/*.ts"
-  - "app/**/*.tsx"
+  - "src/app/**/*.ts"
+  - "src/app/**/*.tsx"
 ---
 
 # App Router rules (loaded only when working under `app/`)
